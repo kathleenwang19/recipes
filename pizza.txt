@@ -5,6 +5,7 @@ pizza sauce
 cheese
 green peppers
 bacon 
+sasuage
 
 Directions
 1.) toss pizza dough until it is the size of the pan
